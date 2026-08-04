@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakeelawan1 (Shakeel Ahmad) from Pakistan.
 - 👀 I’m interested in learning skills to become a data scientist and/or a developer & to work as free lancer or remote job.
-- 🌱 I’m currently learning Python
+- 🌱 I’ve recently launched a Full-Stack fleet management Mobile & Web App (cabtrackpk.com). I'm currently working on Python based software (for all operations of a Sales Distribution) which is 90% complete (only some of Reports are left)
 - 💞️ I’m looking to collaborate on remote projects
 - 📫 How to reach me shakeelawan1@gmail.com
 - 😄 Pronouns: He/Him/His
